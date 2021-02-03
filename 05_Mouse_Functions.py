@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Import Libraries
 import cv2
 import numpy as np
@@ -59,4 +53,3 @@ while True:
         break
 
 cv2.destroyAllWindows
-
