@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Import Libraries
 import cv2
 import numpy as np
@@ -112,4 +106,3 @@ cv2.putText(black_img,
            lineType=cv2.LINE_AA)
 
 plt.imshow(black_img)
-
